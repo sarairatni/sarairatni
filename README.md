@@ -56,17 +56,6 @@ I'm a software engineering student passionate about building intelligent, data-d
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [ElecZone](https://github.com/sarairatni/ElecZone2) | E-commerce app built during Condor Electronics internship on hexagonal architecture with an AI service | Next.js · Express · LangChain · ChromaDB · Docker |
-| [eCare](https://github.com/sarairatni/eCare) | Hospital management IS with role-based access for doctors, lab technicians and patients | Angular · Django REST · MySQL |
-| Semantic Search Engine *(coming soon)* | Semantic search over 10K Amazon reviews using Sentence-BERT & pgvector, outperforming lexical search | Flask · PostgreSQL · pgvector · Docker |
-
----
-
-
 ## 📊 GitHub Stats
 
 ![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarairatni&show_icons=true&theme=default&hide_border=true)
