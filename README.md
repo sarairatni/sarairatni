@@ -19,6 +19,7 @@ I'm a software engineering student passionate about building intelligent, data-d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **AI & Data**
 
@@ -53,13 +54,6 @@ I'm a software engineering student passionate about building intelligent, data-d
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-ArchiMate-blue?style=flat)
-
----
-
-## 📊 GitHub Stats
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarairatni&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarairatni&layout=compact&hide_border=true)
 
 ---
 
